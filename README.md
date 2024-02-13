@@ -14,9 +14,9 @@
 </a>
 
 <br></br>
+<div>
+  
+</div>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=atlascipri&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=atlascipri&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
