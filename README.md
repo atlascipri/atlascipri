@@ -26,6 +26,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atlascipriano/)](https://www.linkedin.com/in/atlascipriano/)
+[![Linkedin](https://img.shields.io/badge/-Atlas Cipriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atlascipriano/)](https://www.linkedin.com/in/atlascipriano/)
 
 ![](https://komarev.com/ghpvc/?username=atlascipri&color=006bed)
