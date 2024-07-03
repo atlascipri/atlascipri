@@ -1,6 +1,5 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas da Informação na UFRPE.
 - 🌱 Aprendendo mais sobre HTML5, CSS, JavaScript e Banco de Dados.
 
